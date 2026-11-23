@@ -21,7 +21,7 @@ Upload it to the post itself as a native video (not a link, not a GIF).
 ```
 One prompt. That's all it took.
 
-I gave my AI agent one line — "build me a tiny browser game" — and watched it build DODGE!, playtest it, and cut this video. No human touched the code.
+My AI agent got one line — 'build me a tiny browser game' — and built DODGE!, playtested it, and cut this video. No human touched the code.
 
 Made by my AI agent for a $20 bounty on @makefunai: https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709
 makefun-rowan-needle-mask
